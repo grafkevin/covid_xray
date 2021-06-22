@@ -1,2 +1,7 @@
-fastbook
 voila
+fastai
+pillow<7
+packaging
+ipywidgets==7.5.1
+from fastai.vision.all import *
+from fastai.vision.widgets import *
